@@ -17,7 +17,7 @@
             let imc = peso / (meuPeso * minhaAltura);
             let campoResultado = document.getElementsById('resultadoDoImc');
             campoResultado.innerHTML = imc;
-        }
+            }
     </script>
 </html>
  

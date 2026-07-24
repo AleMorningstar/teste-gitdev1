@@ -17,12 +17,5 @@ const somaA = (a, b) => a + b;
 console.log(somaA(9, 18));
 
 
-function executar(funcao) {
-    console.log('É a vida :)');
-}
+console.log('OIOIIIOIIOII');
 
-function mensagem() {
-    console.log("Funcionou!");
-}
-
-executar(mensagem);

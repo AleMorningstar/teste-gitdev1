@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Cinzel:wght@400..900&family=Cormorant:ital,wght@0,300..700;1,300..700&family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&display=swap');
+/* font-family: "Quintessential", serif; */
+/*  font-family: "Cinzel", serif; */
+/* parágrafo:  font-family: "Cormorant", serif; */
+/*  font-family: "Jim Nightshade", cursive;
+  font-weight: 400;
+  font-style: normal; */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+   background-color: #10141A;
+    color: #D8C7A3;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.main_lies{
+    margin: 10% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main_section_lies{
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.main_section_titulo_lies{
+    .main_section_titulo_strong_lies{
+        color: #d02929;
+        font-family: "Jim Nightshade", cursive;
+        font-weight: 400;
+        font-style: normal;
+        }
+color: #D8C7A3;
+font-size: 40px;
+font-family: "Quintessential", serif;
+
+}
+
+.main_section_texto_lies{
+    color: white;
+    font-size: 24px;
+    font-family: "Cormorant", serif;
+}
+
+.main_botoes{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main_botoes_links{
+    background-color: #B08D57;
+    color: #10141A;
+    width: 280px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    padding: 22px 0;
+    text-decoration: none;
+    font-family: "Cinzel", serif;;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+    background-color: #10141A;
+    color: #D8C7A3;
+}
+
+h1 {
+    color: #B08D57;
+}
+
+p {
+    color: #8A969C;
+} */
